@@ -11,7 +11,7 @@ export abstract class Listener<T extends Event> {
   abstract queueGroupName: string;
   protected ackWait = 5 * 1000;
   abstract onMessage(data: T["data"], msg: Message): void;
-  constructor(private client: Stan) {}
+  constructor(protected client: Stan) {}
 
   subscriptionOptions() {
     return this.client
