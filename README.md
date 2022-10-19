@@ -2,6 +2,8 @@
 
 _Common utils_
 
+https://www.npmjs.com/package/@frc-tickets/common
+
 ### Microservices project exercise
 
 This is part of a exercise of microservices course.
