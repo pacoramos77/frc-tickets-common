@@ -8,5 +8,5 @@ https://www.npmjs.com/package/@frc-tickets/common
 
 This is part of a exercise of microservices course.
 
-https://www.udemy.com/course/microservices-with-node-js-and-react
-https://github.com/pacoramos77/ticketing
+- [Udemy course](https://www.udemy.com/course/microservices-with-node-js-and-react)
+- [Exercice](https://github.com/pacoramos77/ticketing)
